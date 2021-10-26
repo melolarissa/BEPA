@@ -1,0 +1,420 @@
+"Identificacao_do_veiculo";"Codigo_evento";"Data_de_Inicio_do_protesto";"Base_social";"Base_social_2";"Tipo_de_Ocupação";"Alvo_protesto";"Objetivo_1";"Objetivo_2";"Ambito_do_Protesto";"Capilaridade";"Unidade_Capilaridade";"N_Part";"Data_termino_do_protesto";"Obs"
+"20030206FSPA09_2";"20030205NMEN01";5/2/2003 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_o_governador_do_DF_Roriz_acusado_de_grilagem_de_terra";;"Local";1;"Bairros";99;5/2/2003 00:00:00;
+"20030321FSPA10_1";"20030320BSMT01";20/3/2003 00:00:00;"Trabalhadores";"Estudante";"Não Identificada";"Personalidades/Indivíduos Públicos";"Pela_cassacao_do_senador_baiano_Antonio_carlos_magalhaes";"contra_guerra_entre_eua_e_iraque";"Local";1;"Bairros";500;20/3/2003 00:00:00;
+"20030509FSPA11_1";"20030808OCUP01";8/5/2003 00:00:00;"Indígenas";;;"Gov. Federal";"Exigir_demissao_de_cinco_funcionarios_que_teriam_desviado_recursos_do_orgao";;"Local";1;"Ocupações";70;;
+"20030813FSPC04_3";"20030812TERR01";12/8/2003 00:00:00;"Moradores";;;"Gov. Municipal";"Protestar_contra_vereadores_corruptos";;"Local";1;"Bairros";101;12/8/2003 00:00:00;
+"20030817FSPB05_1";"20030815OCUP01";15/8/2003 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"Protestar_contra_a_petizacao_do_banco_do_brasil";;"Local";1;"Bairros";99;15/8/2003 00:00:00;"protestos de aliados do pt que reclamam da petizacao"
+"20030902FSPA10_1";"20030901OCUP01";1/9/2003 00:00:00;"Trabalhadores";;"Funcionário Público";"Legislativo";"Protestar_contra_indicacao_de_luiz_otavio_para_ministro_no_tcu";;"Local";1;"Bairros";50;1/9/2003 00:00:00;"luiz otavio e alvo de inquerito no stf"
+"20031020FSPA05_1";"20031019NMEN01";19/10/2003 00:00:00;"Não Mencionada";;;"Gov. Federal";"Protestar_contra_a_ministra_Benedita_da_silva";;"Local";1;"Bairros";99;19/10/2003 00:00:00;
+"20040122FSPA04_1";"20040121IDEN01";21/1/2004 00:00:00;"Estudante";;;"Legislativo";"Protestar_contra_gastos_com_deputados";;"Local";1;"Bairros";99;21/1/2004 00:00:00;
+"20040214FSPA08_2";"20040213POLI01";13/2/2004 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"Ofender_o_presidente_e_o_PT";;"Local";1;"Bairros";250;13/2/2004 00:00:00;"os protestos foram relacionados ao caso do Waldomiro Diniz"
+"20040227FSPA05_1";"20040226OCUP01";26/2/2004 00:00:00;"Trabalhadores";;"Trabalhador Urbano do Setor Privado Comércio";"Gov. Federal";"Protestar_contra_fechamento_de_bingos";;"Nacional";3;"Estados";99;26/2/2004 00:00:00;"CPI_sim_o que foi cpi dos bingos"
+"20040310FSPC04_1";"20040309TERR01";9/3/2004 00:00:00;"Moradores";;;"Gov. Municipal";"Protestar_contra_prefeito_jose_manso_flagrado_em_video_distribuindo_dinheiro_a_vereadores";;"Municipal";3;"Bairros";99;9/3/2004 00:00:00;
+"20040319FSPA05_1";"20040318OCUP01";18/3/2004 00:00:00;"Trabalhadores";;"Trabalhador Urbano do Setor Privado Comércio";"Gov. Federal";"Protestar_contra_o_fechamento_dos_bingos";;"Local";1;"Bairros";99;18/3/2004 00:00:00;"waldomiro e um bom comppanheiro_amigo_de_lula"
+"20040608FSPA05_1";"20040607BSMT01";7/6/2004 00:00:00;"Militantes de Partidos";"Trabalhadores";"Não Identificada";"Gov. Federal";"Contra_Lula";"contra_casos_de_corrupcao";"Local";1;"Bairros";120;7/6/2004 00:00:00;
+"20040706FSPA06_1";"20040706BSMT01";6/7/2004 00:00:00;"Trabalhadores";;"Funcionário Público";"Outros Grupos da Sociedade";"Tracar_uma_politica_de_comunicacao_em_defesa_do_poder_de_investigacao_do_MP";;"Local";1;"Bairros";99;6/7/2004 00:00:00;
+"20040710FSPA06_1";"20040709IDEN01";9/7/2004 00:00:00;"Estudante";;;"Gov. Estadual";"Reivindicavam_audiencia_publica";;"Local";1;"Bairros";99;9/7/2004 00:00:00;
+"20040928FSPA05_1";"20040927OCUP01";27/9/2004 00:00:00;"Trabalhadores";;"Funcionário Público";"Judiciário";"contra_oab;contra_lalau";;"Local";1;"Bairros";200;27/9/2004 00:00:00;
+"20050109FSPA07_1";"20050108NMEN01";8/1/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"abuso_de_poder_de_Lula_pelo_uso_avioes_da_FAB_e_lancha_da_marinha";;"Local";1;"Bairros";2;8/1/2005 00:00:00;
+"20050111FSPA07_1";"20050110POLI01";10/1/2005 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"contra_a_nomeacao_de_roseana_sarney_como_ministra";;"Estadual";99;"Cidades";48;10/1/2005 00:00:00;
+"20050302FSPA05_1";"20050301BSMT01";1/3/2005 00:00:00;"Estudante";"Militantes de Partidos";;"Legislativo";"contra_o_aumento_do_salario_de_deputados_e_senadores";;"Local";1;"Bairros";37;1/3/2005 00:00:00;
+"20050303FSPA04_1";"20050302OCUP01";2/3/2005 00:00:00;"Trabalhadores";;"Não Identificada";"Legislativo";"contra_severino";"contra_aumento_salario_de_palamentares";"Local";1;"Bairros";500;2/3/2005 00:00:00;
+"20050323FSPA08_2";"20050322NMEN01";22/3/2005 00:00:00;"Não Mencionada";;;"Gov. Municipal";"contra_o_decreto_que_permite_ao_prefeito_decimo_13_14_e_15";;"Local";1;"Bairros";99;22/3/2005 00:00:00;
+"20050328FSPA06_1";"20050327NMEN01";27/3/2005 00:00:00;"Não Mencionada";;;"Legislativo";"campanha_nacional_contra_a_farra_no_congresso";"contra_severino";"Nacional";99;"Bairros";99;;"emailaco;ciberativismo;classificaria como autonomistas, citam movimento antiglobalizacao"
+"20050502FSPA06_1";"20050501OCUP01";1/5/2005 00:00:00;"Trabalhadores";;"Não Identificada";"Legislativo";"contra_severino_cavalcante";"contra_compra_de_aerolula";"Local";1;"Bairros";99;1/5/2005 00:00:00;
+"20050517FSPA06_1";"20050516IDEN01";16/5/2005 00:00:00;"Estudante";;;"Gov. Estadual";"contra_deputados_estaduais_de_rondonia_e_governador_Ivo_cassol";;"Municipal";2;"Bairros";100;16/5/2005 00:00:00;
+"20050519FSPA15_1";"20050518NMEN01";18/5/2005 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_deputados_estaduais_de_rondonia_e_governador_Ivo_cassol";;"Local";1;"Bairros";99;18/5/2005 00:00:00;
+"20050520FSPA13_1";"20050519IDEN01";19/5/2005 00:00:00;"Estudante";;;"Gov. Estadual";"contra_corrupcao_em_rondonia";;"Local";1;"Bairros";200;19/5/2005 00:00:00;
+"20050521FSPA08_1";"20050520NMEN01";20/5/2005 00:00:00;"Não Mencionada";;;"Personalidades/Indivíduos Públicos";"contra_anthony_garotinho";"pela_volta_do_ex_prefeito";"Local";1;"Bairros";99;20/5/2005 00:00:00;"esse protesto contra um politico fora de ano de eleicao"
+"20050526FSPA08_1";"20050525OCUP01";25/5/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Legislativo";"em_apoio_a_cpi_dos_correios";;"Local";1;"Bairros";99;25/5/2005 00:00:00;
+"20050602FSPA06_1";"20050601OCUP01";1/6/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"contra_corrupcao_dos_correios";;"Local";1;"Bairros";99;1/6/2005 00:00:00;
+"20050607FSPA06_1";"20050606NMEN01";6/6/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"contra_a_corrupcao";;"Local";1;"Bairros";99;6/6/2005 00:00:00;
+"20050610FSPA06_1";"20050609NMEN01";9/6/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"vigilia_civica_contra_a_corrupcao";"por_reforma_politica;alusao_ao_mensalao";"Local";1;"Bairros";99;9/6/2005 00:00:00;
+"20050611FSPA14_1";"20050610IDEN01";10/6/2005 00:00:00;"Mulheres";;;"Gov. Federal";"pelo_impeachment_de_lula";;"Local";1;"Bairros";60;10/6/2005 00:00:00;
+"20050617FSPA15_1";"20050616IDEN01";16/6/2005 00:00:00;"Estudante";;;"Gov. Federal";"contra_a_corrupcao";;"Local";1;"Bairros";150;16/6/2005 00:00:00;
+"20050620FSPA06_1";"20050619NMEN01";19/6/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"contra_lula";"pelo_impeachment_do_presidente";"Local";1;"Bairros";7;19/6/2005 00:00:00;
+"20050629FSPB08_1";"20050628TERR01";28/6/2005 00:00:00;"Ruralistas/Fazendeiros";;;"Gov. Federal";"ajuda_para_a_agricultura";"chamar_atencao_para_crise_agraria;fora_lula;contra_mensalao";"Local";1;"Bairros";6500;28/6/2005 00:00:00;
+"20050630FSPB01_1";"20050629TERR01";29/6/2005 00:00:00;"Ruralistas/Fazendeiros";;;"Gov. Federal";"contra_o_governo";"pelo_aumento_da_saca_de_arroz;pela_renegociacao_de_dividas_dos_rulalistas";"Local";1;"Bairros";99;29/6/2005 00:00:00;
+"20050702FSPA13_1";"20050701BSMT01";1/7/2005 00:00:00;"Estudante";"Sem Terra";;"Gov. Federal";"contra_politica_economica_do_governo";"pelo_fim_da_instabilidade_do_governo;pela_reforma_politica_democratica";"Municipal";2;"Bairros";18500;1/7/2005 00:00:00;
+"20050706FSPA07_1";"20050705BSMT01";5/7/2005 00:00:00;"Trabalhadores";"Sem Teto";"Trabalhador Urbano do Setor Privado Indústria";"Gov. Federal";"contra_corrupcao_do_governo_lula";;"Local";1;"Bairros";99;5/7/2005 00:00:00;
+"20050708FSPA08_1";"20050707OCUP01";7/7/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"contra_o_mensalao";;"Nacional";2;"Cidades";99;7/7/2005 00:00:00;
+"20050710FSPA10_1";"20050709IDEN01";9/7/2005 00:00:00;"Mulheres";;;"Gov. Federal";"contra_a_corrupcao";;"Local";1;"Bairros";99;9/7/2005 00:00:00;
+"20050711FSPB03_1";"20050710OCUP01";10/7/2005 00:00:00;"Trabalhadores";;"Trabalhador Urbano do Setor Privado Indústria";"Patronato";"antecipacao_da_campanha_salarial";"contra_corrupcao";"Local";1;"Bairros";2000;10/7/2005 00:00:00;
+"20050713FSPA09_1";"20050712OCUP01";12/7/2005 00:00:00;"Empregadores";;;"Personalidades/Indivíduos Públicos";"contra_irmao_do_jose_genuino";;"Local";1;"Bairros";99;12/7/2005 00:00:00;
+"20050715FSPA14_1";"20050714OCUP01";14/7/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Patronato";"por_aumento_salarial";"contra_governo_e_congresso";"Local";1;"Bairros";99;14/7/2005 00:00:00;
+"20050715FSPB05_1";"20050714OCUP02";14/7/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"contra_lula";"por_aumento_salarial;paridade_salarial;plano_de_carreira";"Local";1;"Bairros";80;14/7/2005 00:00:00;
+"20050719FSPB04_1";"20050718OCUP01";18/7/2005 00:00:00;"Empregadores";"Trabalhadores";"Profissional Liberal";"Gov. Federal";"movimento_pela_legalidade_contra_a_arbitrariedade_e_corrupcao";;"Local";1;"Bairros";87;18/7/2005 00:00:00;"Flavio D'urso aqui, ele estava a frente dos protestos do cansei"
+"20050720FSPA08_2";"20050719OCUP01";19/7/2005 00:00:00;"Trabalhadores";;"Trabalhador Urbano do Setor Privado Indústria";"Gov. Federal";"contra_lula";;"Local";1;"Bairros";150;19/7/2005 00:00:00;
+"20050721FSPA11_1";"20050720IDEN01";20/7/2005 00:00:00;"Estudante";;;"Gov. Federal";"contra_corrupcao_do_governo";;"Local";1;"Bairros";99;20/7/2005 00:00:00;
+"20050721FSPB09_1";"20050720OCUP01";20/7/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"por_transparencia_na_reformulacao_da_receita";;"Local";1;"Bairros";99;20/7/2005 00:00:00;
+"20050726FSPA06_1";"20050725BSMT01";25/7/2005 00:00:00;"Trabalhadores";"Militantes de Partidos";"Trabalhador Rural";"Gov. Federal";"contra_politica_economica_do_governo";"contra_corrupcao;dia_do_trabalhador_rural";"Local";1;"Bairros";300;25/7/2005 00:00:00;
+"20050728FSPA04_1";"20050727BSMT01";27/7/2005 00:00:00;"Trabalhadores";"Não Mencionada";"Trabalhador Urbano do Setor Privado Indústria";"Gov. Federal";"contra_a_corrupcao";"contra_mensalao";"Municipal";99;"Bairros";2000;27/7/2005 00:00:00;"comeceou de trabalhadores e virou contra a corrupcao"
+"20050728FSPA06_1";"20050727NMEN01";27/7/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"fora_lulla";"contra_corrupcao";"Local";1;"Bairros";99;27/7/2005 00:00:00;
+"20050729FSPA09_1";"20050728BSMT01";28/7/2005 00:00:00;"Trabalhadores";"Militantes de Partidos";"Funcionário Público";"Gov. Federal";"contra_corrupcao";"contra_PT;contra_mensalao";"Nacional";2;"Cidades";150;28/7/2005 00:00:00;
+"20050730FSPC08_1";"20050729OCUP01";29/7/2005 00:00:00;"Trabalhadores";;"Autônomo/Conta Própria";"Polícia/Guarda";"contra_extorcoes_da_pm_e_de_criminosos";;"Municipal";99;"Bairros";99;29/7/2005 00:00:00;
+"20050804FSPA04_1";"20050803BSMT01";3/8/2005 00:00:00;"Trabalhadores";"Militantes de Partidos";"Funcionário Público";"Gov. Federal";"contra_corrupcao";"contra_lula";"Local";1;"Bairros";200;3/8/2005 00:00:00;
+"20050804FSPA05_1";"20050803BSMT01";3/8/2005 00:00:00;"Trabalhadores";"Militantes de Partidos";"Funcionário Público";"Gov. Federal";"contra_corrupcao";"contra_lula";"Local";1;"Bairros";200;3/8/2005 00:00:00;
+"20050805FSPA10_1";"20050804IDEN01";4/8/2005 00:00:00;"Estudante";;;"Gov. Federal";"anticorrupcao";;"Local";1;"Bairros";99;4/8/2005 00:00:00;
+"20050806FSPA07_1";"20050805BSMT01";5/8/2005 00:00:00;"Militantes de Partidos";"Estudante";;"Gov. Federal";"contra_politica_economica";"contra_corrupcao";"Local";1;"Bairros";600;5/8/2005 00:00:00;
+"20050806FSPA08_1";"20050805POLI01";5/8/2005 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"contra_corrupcao";;"Local";1;"Bairros";1000;5/8/2005 00:00:00;
+"20050809FSPA06_1";"20050808IDEN01";8/8/2005 00:00:00;"Estudante";;;"Personalidades/Indivíduos Públicos";"contra_roberto_jeferson";"fora_lula";"Local";1;"Bairros";99;8/8/2005 00:00:00;
+"20050812FSPA05_1";"20050811IDEN01";11/8/2005 00:00:00;"Estudante";;;"Gov. Federal";"contra_corrupcao_do_governo_lula";;"Local";1;"Bairros";2000;11/8/2005 00:00:00;
+"20050813FSPA10_2";"20050813BSMT01";13/8/2005 00:00:00;"Estudante";"Trabalhadores";"Não Identificada";"Gov. Federal";"contra_politica_economica_do_governo";"contra_o_pt;contra_a_corrupcao; com_lula";"Nacional";2;"Cidades";99;13/8/2005 00:00:00;
+"20050816FSPA05_1";"20050815IDEN01";15/8/2005 00:00:00;"Mulheres";;;"Gov. Federal";"pelo_impeachment_de_lula";;"Local";1;"Bairros";99;15/8/2005 00:00:00;
+"20050817FSPA09_1";"20050816BSMT01";16/8/2005 00:00:00;"Estudante";"Sem Terra";;"Gov. Federal";"pro_lula";"contra_corrupcao";"Local";1;"Bairros";10000;16/8/2005 00:00:00;
+"20050817FSPA09_2";"20050816IDEN01";16/8/2005 00:00:00;"Estudante";;;"Gov. Federal";"contra_corrupcao";"contra_jefferson;contra_governo";"Local";1;"Bairros";99;16/8/2005 00:00:00;"contra-comunistas; direita"
+"20050818FSPA06_1";"20050817BSMT01";17/8/2005 00:00:00;"Estudante";"Militantes de Partidos";;"Gov. Federal";"contra_corrupcao";"fora_lula";"Local";1;"Bairros";12000;17/8/2005 00:00:00;
+"20050819FSPA07_1";"20050818OCUP01";18/8/2005 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"contra_corrupcao";;"Local";1;"Bairros";2000;18/8/2005 00:00:00;
+"20050825FSPA08_1";"20050824OCUP01";24/8/2005 00:00:00;"Empregadores";;;"Gov. Federal";"contra_mensalao";;"Local";1;"Bairros";99;24/8/2005 00:00:00;
+"20050825FSPB04_1";"20050824OCUP02";24/8/2005 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"contra_corrupcao";"aumento_real_nos_salarios";"Local";1;"Bairros";1500;24/8/2005 00:00:00;
+"20050827FSPA04_2";"20050826NMEN01";26/8/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"pelo_impeachment_de_lula";;"Local";1;"Bairros";99;26/8/2005 00:00:00;
+"20050901FSPA09_1";"20050830OCUP01";30/8/2005 00:00:00;"Trabalhadores";;"Profissional Liberal";"Gov. Federal";"punicao_para_envolvidos_no_mensalao";"reforma_politica;da_indignacao_a_acao";"Local";1;"Bairros";99;30/8/2005 00:00:00;
+"20050902FSPA11_1";"20050901POLI01";1/9/2005 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"contra_lula";;"Local";1;"Bairros";99;1/8/2005 00:00:00;
+"20050902FSPA12_1";"20050901POLI02";1/9/2005 00:00:00;"Militantes de Partidos";;;"Outros Grupos da Sociedade";"pela_limpeza_do_pt";;"Local";1;"Bairros";20;1/9/2005 00:00:00;
+"20050903FSPA04_1";"20050902POLI01";2/9/2005 00:00:00;"Militantes de Partidos";;;"Legislativo";"pela_cassasao_dos_envolvidos_no_mensalao";;"Local";1;"Bairros";99;2/9/2005 00:00:00;
+"20050903FSPA16_1";"20050902POLI02";2/9/2005 00:00:00;"Militantes de Partidos";;;"Outros Grupos da Sociedade";"afastamento_dos_envolvidos_no_mensalao";;"Local";1;"Bairros";40;2/9/2005 00:00:00;
+"20050907FSPA15_1";"20050906POLI01";6/9/2005 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"grito_do_silencio_contra_a_corrupcao";;"Local";1;"Bairros";2000;6/9/2005 00:00:00;
+"20050908FSPA08_1";"20050907NMEN01";7/9/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"a_favor_de_lula";"contra_governador_do_distrito_federal";"Local";1;"Bairros";99;7/9/2005 00:00:00;
+"20050908FSPA08_2";"20050907BSMT01";7/9/2005 00:00:00;"Militantes de Partidos";"Mulheres";;"Gov. Federal";"fora_lula";"fora_todos;pelo_impeachment_de_lula";"Local";1;"Bairros";99;7/9/2005 00:00:00;"mulheres de militares"
+"20050908FSPA09_1";"20050907NMEN01";7/9/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"grito_dos_excluidos";"contra_lula";"Nacional";99;"Estados";21300;7/9/2005 00:00:00;
+"20050908FSPA09_2";"20050907NMEN01";7/9/2005 00:00:00;"Sem Terra";"Estudante";;"Gov. Federal";"grito_dos_excluidos";"contra_lula;contra_repressao_dos_camelos";"Nacional";12;"Estados";21300;7/9/2005 00:00:00;
+"20050910FSPA16_1";"20050909POLI01";9/9/2005 00:00:00;"Militantes de Partidos";;;"Legislativo";"pela_renuncia_de_severino_presidente_da_camara";;"Local";1;"Bairros";99;9/9/2005 00:00:00;
+"20050912FSPA09_1";"20050910IDEN01";10/9/2005 00:00:00;"Estudante";;;"Personalidades/Indivíduos Públicos";"contra_paulo_maluf";;"Local";1;"Bairros";2;10/9/2005 00:00:00;
+"20050916FSPA12_1";"20050915BSMT01";15/9/2005 00:00:00;"Estudante";"Trabalhadores";"Não Identificada";"Gov. Federal";"contra_corrupcao";"contra_politica_economica;contra_lula;por_credito_agricola_para_sem_terras";"Municipal";2;"Bairros";2050;15/9/2005 00:00:00;
+"20050917FSPA14_1";"20050916POLI01";16/9/2005 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"fora_lula";"fora_todos";"Local";1;"Bairros";2000;16/9/2005 00:00:00;
+"20050921FSPA09_1";"20050920OCUP01";20/9/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"manifesto_pela_etica";"se_nelson_jobim_se_candidadar_a_presidencia_deve_renunciar_do_stf";"Local";1;"Bairros";60;20/9/2005 00:00:00;
+"20050922FSPA05_1";"20050921IDEN01";21/9/2005 00:00:00;"Estudante";;;"Legislativo";"contra_severino_cavalcanti";"contra_corrupcao";"Local";1;"Bairros";20;21/9/2005 00:00:00;
+"20051003FSPA09_1";"20050920OCUP01";20/9/2005 00:00:00;"Trabalhadores";;"Funcionário Público";"Judiciário";"manifesto_pela_etica";"contra_candidatura_de_jobim_a_presidencia";"Nacional";99;"Capitais";128;;
+"20051105FSPA20_1";"20051104NMEN01";4/11/2005 00:00:00;"Não Mencionada";;;"Governos Internacionais/Agências Multilaterais";"contra_bush";"contra_mensalao";"Nacional";3;"Estados";350;4/11/2005 00:00:00;
+"20051121FSPA05_1";"20051120POLI01";20/11/2005 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"fora_lula";"contra_corrupcao;pelo_impeachment_de_lula";"Local";1;"Bairros";2000;20/11/2005 00:00:00;
+"20051230FSPA08_1";"20051229NMEN01";29/12/2005 00:00:00;"Não Mencionada";;;"Gov. Federal";"corrida_contra_envolvidos_no_mensalao";;"Local";1;"Bairros";150;29/12/2005 00:00:00;
+"20060316FSPA04_1";"20060315BSMT01";15/3/2006 00:00:00;"Estudante";"Militantes de Partidos";;"Gov. Federal";"por_transporte_gratuito";"contra_lula";"Local";1;"Bairros";2050;15/3/2005 00:00:00;
+"20060325FSPA08_1";"20060324NMEN01";24/3/2006 00:00:00;"Não Mencionada";;;"Personalidades/Indivíduos Públicos";"contra_maluf";;"Local";1;"Bairros";99;24/3/2006 00:00:00;
+"20060330FSPA06_1";"20060329POLI01";29/3/2006 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"contra_lula";;"Local";1;"Bairros";9;29/3/2006 00:00:00;
+"20060331FSPA11_1";"20060330POLI01";30/3/2006 00:00:00;"Militantes de Partidos";;;"Legislativo";"por_cpi_que_investigue_governo_estadual";;"Local";1;"Bairros";99;30/3/2006 00:00:00;
+"20060412FSPA06_1";"20060411NMEN01";11/4/2006 00:00:00;"Não Mencionada";;;"Legislativo";"contra_absolvicao_de_joao_paulo_envolvido_no_mensalao";;"Local";1;"Bairros";99;11/4/2006 00:00:00;
+"20060416FSPA15_1";"20060415NMEN01";15/4/2006 00:00:00;"Não Mencionada";;;"Legislativo";"contra_deputada_que_dancou_na_camara_quando_foi_absolvida_em_cpi";;"Local";1;"Bairros";99;15/4/2006 00:00:00;
+"20060420FSPA10_2";"20060419POLI01";19/4/2006 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"contra_lula";;"Local";1;"Bairros";99;19/4/2006 00:00:00;"tem_pizza_e_isso e simbolo de corrupcao"
+"20060511FSPA07_1";"20060510IDEN01";10/5/2006 00:00:00;"Estudante";;;"Gov. Federal";"contra_jose_dirceu";;"Local";1;"Bairros";99;10/5/2006 00:00:00;
+"20060522FSPA07_1";"20060521NMEN01";21/5/2006 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"contra_corrupcao_em_geral";"contra_governo_lula";"Local";1;"Bairros";800;21/5/2006 00:00:00;
+"20060628FSPC06_1";"20060527NMEN01";27/5/2006 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"para_chamar_atencao_para_outros_assuntos_alem_da_copa";"atencao_para_criancas_de_rua;contra_corrupcao";"Local";1;"Bairros";6;27/5/2006 00:00:00;
+"20060717FSPA05_1";"20060516NMEN01";16/5/2006 00:00:00;"Não Mencionada";;;"Legislativo";"contra_corrupcao";"fim_do_voto_secreto_no_congresso;fim_da_imunidade_parlamentar;por_cassacao_de_ministros_que_nao_cumprem_promessas";"Nacional";13;"Cidades";870;16/5/2006 00:00:00;"IMPORTANTE_ORKUT_VERDE_AMARELO"
+"20060810FSPA10_1";"20060509POLI01";9/5/2006 00:00:00;"Militantes de Partidos";;;"Gov. Federal";"contra_corrupcao";;"Local";1;"Bairros";99;9/5/2006 00:00:00;
+"20060824FSPA12_1";"20060523OUTR01";23/5/2006 00:00:00;"Outros";;;"Gov. Federal";"contra_pt";"contra_lula";"Nacional";99;"Bairros";99;23/5/2006 00:00:00;"hackers"
+"20060828FSPA04_1";"20060527NMEN01";27/5/2006 00:00:00;"Não Mencionada";;;"Gov. Federal";"pelo_impeachment_de_lula";;"Local";1;"Bairros";1000;27/5/2006 00:00:00;"integralistas"
+"20060908FSPA04_1";"20060907NMEN01";7/9/2006 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"grito_dos_excluidos";"contra_corrupcao";"Estadual";2;"Cidades";11500;7/9/2006 00:00:00;
+"20060908FSPA04_2";"20060907NMEN02";7/9/2006 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"contra_corrupcao";"contra_violencia;contra_impunidade";"Local";1;"Bairros";300;7/9/2006 00:00:00;"IMPORTANTE_CLASSEMEDIA_ALTA"
+"20060916FSPA09_1";"20060917TERR01";17/9/2006 00:00:00;"Sem Terra";;;"Legislativo";"contra_janene_acusado_no_mensalao";"contra_desvio_de_dinheiro_publico";"Local";1;"Bairros";500;17/9/2006 00:00:00;
+"20061002FSPE09_1";"20061001NNEN01";1/10/2006 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"campanha_rir_pra_nao_chorar";;"Municipal";99;"Bairros";99;1/10/2006 00:00:00;
+"20061023FSPA05_2";"20061022NMEN01";22/10/2006 00:00:00;"Não Mencionada";;;"Gov. Federal";"contra_lula";;"Local";1;"Bairros";99;22/10/2006 00:00:00;
+"20061215FSPA07_1";"20061214NMEN01";14/12/2006 00:00:00;"Não Mencionada";;;"Legislativo";"contra_aumento_de_salarios_de_deputados_e_senadores";;"Local";1;"Bairros";50;14/12/2006 00:00:00;
+"20061219FSPA08_1";"20061218OCUP01";18/12/2006 00:00:00;"Trabalhadores";"Não Mencionada";;"Legislativo";"contra_aumento_salario_de_parlamentares";;"Local";1;"Bairros";50;18/12/2006 00:00:00;
+"20061219FSPA08_2";"20061218IDEN01";18/12/2006 00:00:00;"Mulheres";;;"Legislativo";"pela_votacao_da_lei_que_garante_direito_previdenciario_a_militares";"contra_aumento_salario_de_parlamentares";"Local";1;"Bairros";99;18/12/2006 00:00:00;
+"20061220FSPA04_1";"20061219IDEN01";19/12/2006 00:00:00;"Estudante";;;"Legislativo";"contra_aumento_salario_de_parlamentares";;"Local";1;"Bairros";99;19/12/2006 00:00:00;
+"20061220FSPA07_1";"20061219BSMT01";19/12/2006 00:00:00;"Estudante";"Trabalhadores";;"Legislativo";"contra_aumento_salario_de_parlamentares";;"Nacional";2;"Cidades";50;19/12/2006 00:00:00;
+"20070411FSPC01_1";"20070412NMEN01";12/4/2007 00:00:00;"Não Mencionada";;;"Gov. Municipal";"contra_projeto_beneficios_vereadores";;"Local";1;"Bairros";99;12/4/2007 00:00:00;
+"20070601FSPC06_1";"20070531IDEN01";31/5/2007 00:00:00;"Parentes/Familiares";;;"Outros Grupos da Sociedade";"contra_violencia";"corrupcao_tambem_e_violencia";"Local";1;"Bairros";80;31/5/2007 00:00:00;
+"20070609FSPA12_1";"20070608BSMT01";8/6/2007 00:00:00;"Estudante";"Militantes de Partidos";;"Personalidades/Indivíduos Públicos";"contra_entrega_titulo_cidadao_paraibano_a_Fernando_Collor";;"Local";1;"Bairros";1000;8/6/2007 00:00:00;
+"20070619FSPA05_1";"20070618NMEN01";18/6/2007 00:00:00;"Não Mencionada";;;"Legislativo";"contra_Renan_Calheiros";"a_favor_etica_no_conselho_de_etica";"Local";1;"Bairros";99;18/6/2007 00:00:00;
+"20070629FSPA04_1";"20070628POLI01";28/6/2007 00:00:00;"Militantes de Partidos";;;"Legislativo";"contra_senadores";"a_favor_conselho_de_etica_investigar_senador_Roriz";"Local";1;"Bairros";99;28/6/2007 00:00:00;
+"20070703FSPA04_1";"20070702POLI01";2/7/2007 00:00:00;"Militantes de Partidos";;;"Legislativo";"Protestar_pela_saida_de_Renan_calheiros_do_cargo_de_presidente_do_senado";;"Local";1;"Bairros";99;2/7/2007 00:00:00;
+"20070703FSPA06_1";"20070702POLI01";2/7/2007 00:00:00;"Militantes de Partidos";;;"Legislativo";"Protestar_pela_saida_de_Renan_calheiros_do_cargo_de_presidente_do_senado";;"Local";1;"Bairros";99;2/7/2007 00:00:00;
+"20070706FSPA11_1";"20070706POLI01";6/7/2007 00:00:00;"Militantes de Partidos";;;"Gov. Estadual";"Protestar_pela_investigacao_de_irregularidades_em_obras_do_cdhu";;"Local";1;"Bairros";99;6/7/2007 00:00:00;
+"20070712FSPA04_1";"20070711NMEN01";11/7/2007 00:00:00;"Não Mencionada";;;"Legislativo";"Protestar_contra_denuncias_de_corrupcao_no_senado";;"Local";1;"Bairros";99;11/7/2007 00:00:00;
+"20070724FSPA08_2";"20070723OCUP01";23/7/2007 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Estadual";"Protestar_contra_foro_privilegiado";;"Local";1;"Bairros";99;23/7/2007 00:00:00;
+"20070727FSPA04_2";"20070726IDEN01";26/7/2007 00:00:00;"Estudante";;;"Gov. Federal";"contra_lula";;"Local";1;"Bairros";99;26/7/2007 00:00:00;"não tem no banco geral add"
+"20070728FSPA04_1";"20070707OCUP01";27/7/2007 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"contra_lula";;"Local";1;"Bairros";99;27/7/2007 00:00:00;
+"20070730FSPC08_1";"20070729IDEN01";29/7/2007 00:00:00;"Parentes/Familiares";;;"Gov. Federal";"Protestar_contra_autoridades_e_companhias_aereas";;"Local";1;"Bairros";5500;29/7/2007 00:00:00;
+"20070805FSPA04_1";"20070804NMEN01";4/8/2007 00:00:00;"Não Mencionada";;;"Gov. Federal";"Protestar_contra_Lula";;"Local";1;"Bairros";80;4/8/2007 00:00:00;
+"20070805FSPA08_1";"20070804NMEN02";4/8/2007 00:00:00;"Não Mencionada";;;"Gov. Federal";"fora_lula";;"Nacional";8;"Estados";3000;4/8/2007 00:00:00;
+"20070815FSPA05_1";"20070814NMEN01";14/8/2007 00:00:00;"Não Mencionada";;;"Legislativo";"Protestar_pela_saida_do_presidente_do_senado_Renan_calheiros";;"Nacional";99;"Estados";60000;14/8/2007 00:00:00;
+"20070818FSPA06_1";"20070817NMEN02";17/8/2007 00:00:00;"Não Mencionada";;;"Gov. Federal";"Protestar_contra_o_governo_federal";;"Local";1;"Bairros";3500;17/8/2007 00:00:00;
+"20070818FSPA07_1";"20070817NMEN02";17/8/2007 00:00:00;"Não Mencionada";;;"Gov. Federal";"cansei";;"Local";1;"Bairros";250;17/8/2007 00:00:00;
+"20070818FSPE06_1";"20070817OCUP01";17/8/2007 00:00:00;"Trabalhadores";;"Trabalhador Urbano do Setor Privado Serviços";"Outros Grupos da Sociedade";"Dia_nacional_do_luto_e_da_luta";;"Local";1;"Bairros";99;17/8/2007 00:00:00;
+"20070916FSPA06_1";"20070915NMEN01";15/9/2007 00:00:00;"Não Mencionada";;;"Legislativo";"Protestar_contra_absolvisao_de_Renan";"Protestar_contra_o_governo_lula_e_pt";"Local";1;"Bairros";200;15/9/2007 00:00:00;
+"20070917FSPA04_1";"20070916IDEN01";16/9/2007 00:00:00;"Estudante";;;"Legislativo";"Protestar_contra_absolvisao_de_Renan";;"Local";1;"Bairros";30;16/9/2007 00:00:00;"tico santa cruz"
+"20070927FSPA08_1";"20070926NMEN01";26/9/2007 00:00:00;"Não Mencionada";;;"Legislativo";"Protestar_contra_Renan_Calheiros";"Protestar_contra_aluizio_mercadantw";"Local";1;"Bairros";20;26/9/2007 00:00:00;
+"20080221FSPA04_1";"20080220IDEN01";20/2/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";99;20/2/2008 00:00:00;
+"20080228FSPA04_1";"20080827POLI01";27/8/2008 00:00:00;"Militantes de Partidos";;;"Gov. Estadual";"por_cpi";;"Local";1;"Bairros";70;27/8/2008 00:00:00;
+"20080404FSPA06_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";200;;
+"20080405FSPA08_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";200;;
+"20080407FSPA06_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";50;;
+"20080408FSPA10_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";600;;
+"20080409FSPA04_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";99;;
+"20080410FSPA06_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor";;"Local";1;"Bairros";99;;
+"20080412FSPA06_1";"20080411IDEN01";11/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_vice_reitor_da_unb";;"Local";1;"Bairros";99;11/4/2008 00:00:00;
+"20080417FSPA11_1";"20080416IDEN01";16/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pela_saida_do_reitor_da_unifesp";;"Local";1;"Bairros";99;16/4/2008 00:00:00;
+"20080418FSPA08_1";"20080403IDEN01";3/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pelo_afastamento_definitivo_de_reitor_e_vice";;"Local";1;"Bairros";350;17/4/2008 00:00:00;
+"20080419FSPA10_2";"20080418IDEN01";18/4/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pelo_afastamento_do_reitor_da_unifesp";;"Local";1;"Bairros";400;18/4/2008 00:00:00;
+"20080531FSPA13_1";"20080530IDEN01";30/5/2008 00:00:00;"Estudante";;;"Gov. Estadual";"protestar_contra_esquema_de_fraude_no_detran";"operacao_rodin";"Local";1;"Bairros";99;30/5/2008 00:00:00;
+"20080612FSPA09_1";"20080611BSMT01";11/6/2008 00:00:00;"Trabalhadores";"Sem Terra";"Não Identificada";"Gov. Estadual";"contra_o_escandalo_de_corrupção_do_governo_de_yeda_crusius_psdb";;"Local";1;"Bairros";400;11/6/2008 00:00:00;
+"20080614FSPA08_1";"20080613IDEN01";13/6/2008 00:00:00;"Estudante";;;"Gov. Estadual";"contra_a_corrrupcao_e_o_governo_de_yeda_crusius_psdb";;"Local";1;"Bairros";99;13/6/2008 00:00:00;
+"20080615FSPA13_1";"20080614IDEN01";14/6/2008 00:00:00;"Estudante";;;"Gov. Federal";"protestar_contra_problemas_na_prestação_de_contas_da_reitoria";"pedido_de_saída_do_reitor_Ulysses_Fagundes_Neto";"Local";1;"Bairros";48;14/6/2008 00:00:00;
+"20080619FSPA08_1";"20080618OCUP01";18/6/2008 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Estadual";"critica_a_corrupção_no_governo_Yeda_Crusius";;"Local";1;"Bairros";99;18/6/2008 00:00:00;
+"20080701FSPA08_1";"20080630IDEN01";30/6/2008 00:00:00;"Estudante";;;"Gov. Estadual";"contra_o_governo_de_Yeda_Crusius";"contra_arrocho_salarial";"Local";1;"Bairros";32;30/6/2008 00:00:00;
+"20080715FSPC08_1";"20080614OCUP01";14/6/2008 00:00:00;"Trabalhadores";;"Autônomo/Conta Própria";"Polícia/Guarda";"apoio_a_prisao_de_policiais_acusados_de_corrupcao";;"Local";1;"Bairros";250;14/6/2008 00:00:00;
+"20080827FSPA10_1";"20080826IDEN01";26/8/2008 00:00:00;"Estudante";;;"Reitoria/Direção de Escola";"pressionar_o_conselho_universitário";"pela_transparência_nos_gastos_e_saída_dos_acusados_de_irregularidades";"Local";1;"Bairros";99;26/8/2008 00:00:00;
+"20090213FSPA07_1";"20090212OCUP01";12/2/2009 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Estadual";"contra_governadora_Yeda_Crusius";"contra_arrocho_salarial";"Local";1;"Bairros";300;12/2/2009 00:00:00;
+"20090327FSPA10_1";"20090326IDEN01";26/3/2009 00:00:00;"Estudante";;;"Gov. Estadual";"a_favor_renuncia_Yeda_Crusius";;"Estadual";3;"Cidades";1250;26/2/2009 00:00:00;
+"20090515FSPA06_1";"20090514BSMT01";14/5/2009 00:00:00;"Estudante";"Trabalhadores";"Funcionário Público";"Gov. Estadual";"a_favor_impeachment_Yeda_Crusius";;"Local";1;"Bairros";2300;14/5/2009 00:00:00;
+"20090619FSPA07_1";"20090618OCUP01";18/6/2009 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Estadual";"a_favor_saida_governadora_Yeda_Crusius";;"Local";1;"Bairros";5000;18/6/2009 00:00:00;
+"20090717FSPA07_1";"20090716IDEN01";16/7/2009 00:00:00;"Estudante";;;"Legislativo";"contra_Sarney";;"Local";1;"Bairros";15;16/7/2009 00:00:00;
+"20090717FSPA11_1";"20090716OCUP01";16/7/2009 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Estadual";"a_favor_impeachment_Yeda_Crusius";;"Local";1;"Bairros";300;16/7/2009 00:00:00;
+"20090801FSPA08_1";"20090731POLI01";31/7/2009 00:00:00;"Militantes de Partidos";;;"Legislativo";"contra_Sarney";;"Local";1;"Bairros";99;31/7/2009 00:00:00;
+"20090805FSPA04_1";"20090804OCUP01";4/8/2009 00:00:00;"Trabalhadores";;"Não Identificada";"Legislativo";"contra_Sarney";;"Local";1;"Bairros";99;4/8/2009 00:00:00;
+"20090813FSPA01_1";"20090812POLI01";12/8/2009 00:00:00;"Militantes de Partidos";;;"Legislativo";"contra_Sarney";;"Local";1;"Bairros";99;12/8/2009 00:00:00;
+"20090813FSPA06_1";"20090812POLI01";12/8/2009 00:00:00;"Militantes de Partidos";;;"Legislativo";"contra_Sarney";;"Local";1;"Bairros";99;12/8/2009 00:00:00;
+"20090815FSPA06_1";"20090814NMEN01";14/8/2009 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_Yeda_Crusius";;"Local";1;"Bairros";99;14/8/2009 00:00:00;
+"20090816FSPA11_1";"20090815IDEN01";15/8/2009 00:00:00;"Estudante";;;"Legislativo";"contra_Jose_Sarney";;"Nacional";2;"Cidades";850;15/8/2009 00:00:00;
+"20090820FSPA06_1";"20090819IDEN01";19/8/2009 00:00:00;"Estudante";;;"Legislativo";"contra_Jose_Sarney";"defesa_de_cotas";"Local";1;"Bairros";50;19/8/2009 00:00:00;
+"20090905FSPA08_1";"20090904BSMT01";4/9/2009 00:00:00;"Trabalhadores";"Sem Terra";"Não Identificada";"Gov. Estadual";"contra_Yeda_Crusius";"grito_dos_excluidos";"Local";1;"Bairros";1500;4/9/2009 00:00:00;
+"20090908FSPA08_1";"20090907NMEN01";7/9/2009 00:00:00;"Não Mencionada";;;"Legislativo";"contra_Sarney";"contra_militares_dispensados_;_a_favor_fechamento_Senado";"Nacional";2;"Estados";99;7/9/2009 00:00:00;
+"20090915FSPA10_1";"20090914OCUP01";14/9/2009 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Estadual";"contra_Yeda_Crusius";;"Local";1;"Bairros";99;14/9/2009 00:00:00;
+"20090917FSPA04_1";"20090917IDEN01";17/9/2009 00:00:00;"Estudante";;;"Gov. Estadual";"contra_Yeda_Crusius";;"Local";1;"Bairros";99;17/9/2009 00:00:00;
+"20090930FSPA04_1";"20090930NMEN01";30/9/2009 00:00:00;"Não Mencionada";;;"Legislativo";"a_favor_ficha_limpa_candidatos";;"Nacional";99;"Cidades";1300000;30/9/2009 00:00:00;
+"20091201FSPA06_1";"20091130POLI01";30/11/2009 00:00:00;"Militantes de Partidos";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";10;30/11/2009 00:00:00;
+"20091203FSPA04_1";"20091202NMEN01";2/12/2009 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";200;2/12/2009 00:00:00;
+"20091207FSPA04_1";"20091203NMEN01";3/12/2009 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";99;;
+"20091209FSPA10_1";"20091203NMEN01";3/12/2009 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";500;3/12/2009 00:00:00;
+"20091210FSPA06_1";"20091209NMEN01";9/12/2009 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";1000;9/12/2009 00:00:00;
+"20100111FSPA10_1";"20100110IDEN01";10/1/2010 00:00:00;"Estudante";;;"Gov. Estadual";"contra_governador_Arruda";"contra_deputado_prudente";"Local";1;"Bairros";30;10/1/2010 00:00:00;
+"20100112FSPA07_2";"20100111IDEN01";11/1/2010 00:00:00;"Estudante";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";400;11/1/2010 00:00:00;
+"20100115FSPA10_2";"20100114NMEN01";14/1/2010 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";99;14/1/2010 00:00:00;
+"20100119FSPA06_1";"20100118NMEN01";18/1/2010 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";99;18/1/2010 00:00:00;
+"20100122FSPA09_1";"20100121IDEN01";21/1/2010 00:00:00;"Estudante";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";20;21/1/2010 00:00:00;
+"20100208FSPA04_1";"20100207NMEN01";7/2/2010 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";99;7/2/2010 00:00:00;
+"20100212FSPA06_1";"20100211NMEN01";11/2/2010 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Arruda";;"Local";1;"Bairros";99;11/2/2010 00:00:00;
+"20100217FSPA04_1";"20100216OUTR01";16/2/2010 00:00:00;"Outros";;;"Gov. Estadual";"contra_crise_politica_DF";;"Local";1;"Bairros";99;16/2/2010 00:00:00;"folioes"
+"20100218FSPA04_1";"20100217IDEN01";17/2/2010 00:00:00;"Estudante";;;"Gov. Estadual";"contra_governador_interino_DF_Paulo_Otávio";"contra_intervencao_DF";"Local";1;"Bairros";99;17/2/2010 00:00:00;
+"20100222FSPA06_1";"20100221NMEN01";21/2/2010 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_interino_DF_Paulo_Otávio";;"Local";1;"Bairros";99;21/2/2010 00:00:00;
+"20100312FSPA12_1";"20100311IDEN01";11/3/2010 00:00:00;"Religiosos";;;"Legislativo";"a_favor_projeto_ficha_limpa";;"Local";1;"Bairros";99;11/3/2010 00:00:00;
+"20100324FSPA08_1";"20100323BSMT01";23/3/2010 00:00:00;"Estudante";"Trabalhadores";"Não Identificada";"Gov. Estadual";"contra_pagamento_funcionarios_fantasmas";;"Local";1;"Bairros";70;23/3/2010 00:00:00;
+"20100415FSPC10_2";"20100414BSMT01";14/4/2010 00:00:00;"Estudante";"Sem Terra";;"Gov. Estadual";"contra_corrupcao_Legislativo";"a_favor_renuncia_presidente_Nelson_Justus";"Local";1;"Bairros";150;14/4/2010 00:00:00;
+"20100422FSPA10_1";"20100421IDEN01";21/4/2010 00:00:00;"Estudante";;;"Gov. Estadual";"contra_governador_DF_Rogerio_Rosso";"fora_arruda_e_toda_a_corja";"Municipal";2;"Bairros";90;21/4/2010 00:00:00;
+"20100423FSPA12_2";"20100421IDEN02";21/4/2010 00:00:00;"Estudante";;;"Gov. Estadual";"a_favor_impugnacao_eleicao_indireta_governador_DF_Rosso";;"Local";1;"Bairros";70;;
+"20100503FSPA04_1";"20100502NMEN01";2/5/2010 00:00:00;"Não Mencionada";;;"Legislativo";"a_favor_aprovacao_projeto_ficha_limpa";;"Local";1;"Bairros";200;2/5/2010 00:00:00;"controu com presença de gabeira do PV e Chico do PSOL"
+"20100503FSPA07_1";"20100502NMEN01";2/5/2010 00:00:00;"Não Mencionada";;;"Legislativo";"a_favor_aprovacao_projeto_ficha_limpa";;"Local";1;"Bairros";200;2/5/2010 00:00:00;
+"20100505FSPA04_1";"20100504NMEN01";4/5/2010 00:00:00;"Não Mencionada";;;"Legislativo";"a_favor_aprovacao_projeto_ficha_limpa";;"Local";1;"Bairros";99;4/5/2010 00:00:00;"o relator do Ficha Limpa foi o José Eduardo Cardoso (PT)"
+"20100812FSPA12_1";"20100511BSMT01";11/5/2010 00:00:00;"Estudante";"Trabalhadores";"Não Identificada";"Personalidades/Indivíduos Públicos";"a_favor_fora_Collor";;"Local";1;"Bairros";500;11/5/2010 00:00:00;
+"20101222FSPC05_1";"20101221OCUP01";21/12/2010 00:00:00;"Trabalhadores";;"Trabalhador Urbano do Setor Privado Comércio";"Gov. Municipal";"contra_aprovacao_lei_aumento_salario_vereadores_Sorocaba";;"Local";1;"Bairros";99;21/12/2010 00:00:00;
+"20101228FSPA01_1";"20101227IDEN01";27/12/2010 00:00:00;"Estudante";;;"Legislativo";"contra_alta_salario_parlamentares";;"Local";1;"Bairros";99;27/12/2010 00:00:00;
+"20110316FSPC07_1";"20110315OCUP01";15/3/2011 00:00:00;"Moradores";;;"Gov. Municipal";"pela_renuncia_do_prefeito_de_teresopolis";;"Local";1;"Bairros";300;15/3/2011 00:00:00;"moradores_nem_direita_nem_esquerda"
+"20110327FSPA10_1";"20110326TERR01";26/3/2011 00:00:00;"Moradores";;;"Gov. Municipal";"pela_abertura_de_processo_de cassacao_prefeito_Curralinho";;"Local";1;"Bairros";99;26/3/2011 00:00:00;"moradores_nem_direita_nem_esquerda"
+"20110615FSPA12_1";"20110607BSMT01";7/6/2011 00:00:00;"Estudante";"Trabalhadores";"Não Identificada";"Gov. Municipal";"pelo_impeachment_da_prefeita_Natal";;"Municipal";2;"Bairros";100;;
+"20110710FSPA14_1";"20110709IDEN01";9/7/2011 00:00:00;"Estudante";;;"Gov. Municipal";"contra_reajuste_salario_do_prefeito_secretarios";;"Municipal";99;"Bairros";30;9/7/2011 00:00:00;
+"20110908FSPA06_1";"20110907NMEN01";7/9/2011 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Contra_corrupcao";"ficha_limpa";"Nacional";5;"Estados";13790;7/9/2011 00:00:00;
+"20110921FSPA08_1";"20110920BSMT01";20/9/2011 00:00:00;"Estudante";"Aposentados";;"Gov. Estadual";"Contra_corrupcao";"contra_cabral;contra_dilma";"Local";1;"Bairros";2500;20/9/2011 00:00:00;
+"20111013FSPA01_1";"20111012NMEN01";12/10/2011 00:00:00;"Não Mencionada";;;"Legislativo";"contra_ corrupcao";"aplicacao_da_Lei_da_Ficha_Limpa; fim do voto secreto no CN";"Nacional";10;"Estados";2000;12/10/2011 00:00:00;
+"20111013FSPA06_1";"20111012NMEN01";12/10/2011 00:00:00;"Não Mencionada";;;"Legislativo";"contra_ corrupcao";"aplicacao_da_Lei_da_Ficha_Limpa; fim do voto secreto no CN;2_marcha_contra_corrupcao";"Nacional";10;"Estados";26045;12/10/2011 00:00:00;
+"20111013FSPA07_1";"20111012NMEN01";12/10/2011 00:00:00;"Não Mencionada";;;"Legislativo";"contra_ corrupcao";"aplicacao_da_Lei_da_Ficha_Limpa; fim do voto secreto no CN";"Nacional";10;"Estados";6000;12/10/2011 00:00:00;
+"20111116FSPA04_1";"20111115NMEN01";15/11/2011 00:00:00;"Não Mencionada";;;"Legislativo";"Contra_corrupcao";;"Local";1;"Bairros";99;15/11/2011 00:00:00;
+"20111116FSPA07_1";"20111115NMEN01";15/11/2011 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Contra_corrupcao";"contra_governador_agnelo_queiroz_do_df;mais_dinheiro_apara_educacao;prisao_para_corruptos";"Nacional";8;"Estados";3430;15/11/2011 00:00:00;
+"20120201FSPB04_1";"20120131OUTR01";31/1/2012 00:00:00;"Outros";;;"Outros Grupos da Sociedade";"Protestar_contra_corrupcao";;"Nacional";99;"Bairros";99;;"hackers"
+"20120202FSPB05_1";"20120131OUTR01";31/1/2012 00:00:00;"Outros";;;"Outros Grupos da Sociedade";"Protestar_contra_corrupcao";;"Nacional";99;"Bairros";99;;"hackers"
+"20120203FSPB03_1";"20120131OUTR01";31/1/2012 00:00:00;"Outros";;;"Outros Grupos da Sociedade";"Protestar_contra_corrupcao";;"Nacional";99;"Bairros";99;2/2/2012 00:00:00;"hackers"
+"20120422FSPA10_1";"20120421NMEN01";21/4/2012 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Protestar_contra_corrupcao";"agilidade_julgamento_mensalao;fim_voto_secreto";"Nacional";2;"Estados";99;21/4/2012 00:00:00;
+"20120430FSPA09_1";"20120429NMEN01";29/4/2012 00:00:00;"Não Mencionada";;;"Gov. Municipal";"Protestar_contra_aumento_no_salario_de_vereadores";;"Estadual";2;"Cidades";99;29/4/2012 00:00:00;
+"20120502FSPA08_2";"20120501OCUP02";1/5/2012 00:00:00;"Trabalhadores";;"Não Identificada";"Legislativo";"Mobilizacao_pela_cpi_do_cachoeira";;"Local";1;"Bairros";50000;1/5/2012 00:00:00;"arrumar data que esta errada no banco geral"
+"20120726FSPA06_1";"20120726OCUP01";26/7/2012 00:00:00;"Trabalhadores";;"Funcionário Público";"Personalidades/Indivíduos Públicos";"para_que_a_cpmi_do_cachoeira_nao_termine_em_pizza";;"Local";1;"Bairros";99;26/7/2012 00:00:00;"servidores do judiciario"
+"20120728FSPA11_1";"20120727OCUP01";27/7/2012 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"protestam_por_maior_transparencia";;"Local";1;"Bairros";99;27/7/2012 00:00:00;
+"20120730FSPA04_1";"20120729NMEN01";29/7/2012 00:00:00;"Não Mencionada";;;"Judiciário";"Protestar_a_favor_do_julgamento_do_mensalao";;"Local";1;"Bairros";99;29/7/2012 00:00:00;
+"20120802FSPA08_1";"20120801NMEN01";1/8/2012 00:00:00;"Não Mencionada";;;"Judiciário";"Protestar_contra_a_corrupcao";"contra_mensalao";"Local";1;"Bairros";99;1/8/2012 00:00:00;
+"20120803FSPA10_1";"20120802NMEN01";2/8/2012 00:00:00;"Não Mencionada";;;"Judiciário";"Protestar_contra_mensalao";;"Local";1;"Bairros";99;2/8/2012 00:00:00;
+"20120804FSPA08_1";"20120803OCUP01";3/8/2012 00:00:00;"Trabalhadores";;"Não Identificada";"Judiciário";"Protestar_contra_acusados_no_processo_do_mensalao";;"Local";1;"Bairros";99;3/8/2012 00:00:00;
+"20120908FSPA08_1";"20120907NMEN01";7/9/2012 00:00:00;"Não Mencionada";;;"Judiciário";"Protestar_contra_a_corrupcao";"punicao_envolvidos_mensalao";"Nacional";2;"Estados";11000;7/9/2012 00:00:00;
+"20121013FSPA04_1";"20121012NMEN01";12/10/2012 00:00:00;"Não Mencionada";;;"Judiciário";"Parabenizar_o_STF_pelo_julgamento_do_mensalao";;"Local";1;"Bairros";99;12/10/2012 00:00:00;
+"20121127FSPA14_3";"20121126NMEN01";26/11/2012 00:00:00;"Não Mencionada";;;"Gov. Estadual";"Protestar_contra_Cabral";;"Local";1;"Bairros";100;26/11/2012 00:00:00;
+"20121210FSPA04_1";"20121209POLI01";9/12/2012 00:00:00;"Ciclistas";;;"Outros Grupos da Sociedade";"Protestar_contra_a_corrupcao";;"Local";99;"Bairros";99;9/12/2012 00:00:00;
+"20130114FSPA04_1";"20130113NMEN01";13/1/2013 00:00:00;"Não Mencionada";;;"Personalidades/Indivíduos Públicos";"Contra_Lula";"Contra_PT;pela_investigacao_de_lula_no_mensalao";"Local";1;"Bairros";20;13/1/2013 00:00:00;
+"20130210FSPA10_1";"20130209NMEN01";9/2/2013 00:00:00;"Não Mencionada";;;"Legislativo";"fora_renan_calheiros_do_senado";;"Local";1;"Bairros";200;9/2/2013 00:00:00;
+"20130226FSPA07_1";"20130224NMEN01";24/2/2013 00:00:00;"Não Mencionada";;;"Legislativo";"contra_renan_calheiros";;"Local";1;"Bairros";99;24/2/2013 00:00:00;
+"20130310FSPA10_1";"20130309NMEN01";9/3/2013 00:00:00;"Não Mencionada";;;"Legislativo";"contra_renan_calheiros";"contra_marco_feliciano";"Local";1;"Bairros";99;9/3/2013 00:00:00;
+"20130418FSPA04_1";"20130417NMEN01";17/4/2013 00:00:00;"Não Mencionada";;;"Legislativo";"pro_marco_feliciano";"Fora_jose_genuino";"Local";1;"Bairros";99;17/4/2013 00:00:00;
+"20130525FSPA08_1";"20130524OCUP01";24/5/2013 00:00:00;"Trabalhadores";;"Funcionário Público";"Legislativo";"Protestar_contra_proposta_que_limita_os_poderes_de_investigacao_do_MP";"contra_pec_37";"Local";1;"Bairros";99;24/5/2013 00:00:00;
+"20130618FSPC01_1";"20130617NMEN01";17/6/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"Contra_o_aumento_da_tarifa_do_transporte_publico";"contra_politicos;contra_partidos;contra_corrupcao;contra_gastos_copa;fifa;cotas;imprensa;educacao";"Nacional";3;"Estados";65000;17/3/2013 00:00:00;
+"20130618FSPC02_1";"20130617NMEN01";17/6/2013 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_o_aumento_da_tarifa_do_transporte_publico";"contra_politicos;contra_partidos;contra_corrupcao;contra_gastos_copa;fifa;cotas;imprensa;educacao";"Nacional";5;"Estados";77000;17/3/2013 00:00:00;
+"20130619FSPC02_1";"20130617NMEN01";17/6/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"Contra_o_aumento_da_tarifa_do_transporte_publico";"contra_politicos;contra_partidos;contra_corrupcao;contra_gastos_copa;fifa;cotas;imprensa;educacao";"Nacional";5;"Estados";65000;17/3/2013 00:00:00;
+"20130621FSPC05_1";"20130620MEN01";20/6/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Contra_partidos";"melhoria_na_educacao; melhoria_da_saude; contra_renan_calheiros";"Nacional";99;"Cidades";110000;20/6/2013 00:00:00;
+"20130622FSPC04_1";"20130620NMEN01";21/6/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"Protestar_contra_o_aumento_da_passagem_do_transporte_publico";"pela_reducao_da_maioridade_penal;antipartido";"Local";1;"Bairros";99;21/9/2013 00:00:00;"grupos conservadores estavam"
+"20130624FSPC03_1";"20130623NMEN02";23/6/2013 00:00:00;"Não Mencionada";;;"Legislativo";"contra_pec_37";;"Local";1;"Bairros";3000;23/9/2013 00:00:00;
+"20130626FSPC03_1";"20130621BSMT01";25/6/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"Protestar_contra_sergio_cabral";;"Local";1;"Bairros";20;;
+"20130626FSPC10_2";"20130625IDEN01";24/6/2013 00:00:00;"Estudante";;;"Gov. Municipal";"Reducao_da_tarifa_de_transporte_publico";"contra_corrupcao";"Municipal";2;"Bairros";3000;24/6/2013 00:00:00;
+"20130626FSPC10_3";"20130625NMEN02";25/6/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_anchieta_junior";;"Local";1;"Bairros";99;25/6/2013 00:00:00;
+"20130627FSPC07_2";"20130626NMEN01";26/6/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Combate_a_corrupcao";"melhorias_na_saude; melhorias_na_educacao;solidariedade_a_outro_grupo";"Local";1;"Bairros";99;26/6/2013 00:00:00;
+"20130627FSPC07_3";"20130626NMEN02";26/6/2013 00:00:00;"Não Mencionada";;;"Gov. Federal";"Protestar_pelo_retorno_dos_militares";"fora_dilma";"Local";1;"Bairros";4;26/6/2013 00:00:00;
+"20130628FSPC03_1";"20130627OCUP01";27/6/2013 00:00:00;"Trabalhadores";;"Autônomo/Conta Própria";"Gov. Municipal";"CPI_dos_transportes";;"Local";1;"Bairros";99;27/6/2013 00:00:00;
+"20130701FSPC04_2";"20130629NMEN01";29/6/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"pela_abertura_da_caixa_preta_dos_transportes";"reducao_do_valor_da_passagem_de_onibus;melhorias_no_tranporte";"Nacional";2;"Estados";650;;
+"20130701FSPC04_3";"20130625NMEN01";25/6/2013 00:00:00;"Não Mencionada";;;"Legislativo";"contra_pec_37";;"Local";1;"Bairros";40;25/6/2013 00:00:00;
+"20130702FSPC07_2";"20130701NMEN01";1/7/2013 00:00:00;"Não Mencionada";;;"Gov. Federal";"questionar_gastos_com_a_copa_do_mundo";;"Local";1;"Bairros";300;1/7/2013 00:00:00;"D2"
+"20130702FSPC08_1";"20130701NMEN02";1/7/2013 00:00:00;"Não Mencionada";;;"Legislativo";"contra_a_corrupcao";"contra_renan_calheiros";"Local";1;"Bairros";100;1/7/2013 00:00:00;
+"20130702FSPC08_2";"20130701NMEN03";1/7/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"por_mais_etica_na_politica";;"Local";1;"Bairros";40;1/7/2013 00:00:00;
+"20130702FSPC08_3";"20130701NMEN04";1/7/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"pelo_fim_da_corrupcao";"mais_investimento_em_saude";"Local";1;"Bairros";200;1/7/2013 00:00:00;
+"20130702FSPC08_4";"20130701NMEN05";1/7/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"contra_a_corrupcao";;"Local";1;"Bairros";100;1/7/2013 00:00:00;
+"20130702FSPC08_5";"20130701NMEN06";1/7/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"por_transporte_publico";"mais_saude;reforma_politica";"Local";1;"Bairros";60;1/7/2013 00:00:00;
+"20130703FSPC07_2";"20130621BSMT01";21/6/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_cabral";;"Local";1;"Bairros";99;2/7/2013 00:00:00;
+"20130704FSPC05_1";"20130703OCUP01";3/7/2013 00:00:00;"Trabalhadores";;"Profissional Liberal";"Gov. Federal";"contra_a_vinda_de_medicos_estrangeiros";"mais_sus;menos_corrupcao";"Local";1;"Bairros";99;3/7/2013 00:00:00;"medicos"
+"20130705FSPC04_6";"20130407NMEN01";4/7/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_a_copa_do_mundo";"pela_prisão_do_governador_Sergio_Cabral";"Local";1;"Bairros";400;4/7/2013 00:00:00;
+"20130717FSPC04_1";"20130716OCUP01";16/7/2013 00:00:00;"Trabalhadores";;"Profissional Liberal";"Gov. Federal";"melhores_condicoes_na_saúde_pública";"contra_Dilma;corrupcao_na_saude_nao";"Nacional";3;"Estados";3100;16/7/2013 00:00:00;
+"20130718FSPA01_1";"20130717NMEN01";17/7/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Sergio_Cabral";;"Local";1;"Bairros";99;17/3/2013 00:00:00;
+"20130718FSPA08_1";"20130717NMEN01";17/7/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Sergio_Cabral";;"Local";1;"Bairros";350;17/3/2013 00:00:00;
+"20130719FSPC08_1";"20130718NMEN01";18/7/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"pela_abertura_das_planilhas_de_custos_das_empresas_de_onibus";"passagem_gratuita";"Local";1;"Bairros";420;18/7/2013 00:00:00;
+"20130723FSPA06_1";"20130722NMEN01";22/7/2013 00:00:00;"Não Mencionada";;;"Governos Internacionais/Agências Multilaterais";"contra_visita_do_papa";"contra_governador_Sergio_Cabral;pelo_direito_ao_aborto_e_sexo_livre;contra_visita_do_papa";"Municipal";99;"Bairros";200;22/7/2013 00:00:00;
+"20130725FSPC07_1";"20130724NMEN01";24/7/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"passe_livre";"abertura_de_cpi_para_apurar_corrupcao";"Local";1;"Bairros";50;;
+"20130726FSPA11_1";"20130725NMEN01";25/7/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Sergio_Cabral";;"Local";1;"Bairros";1500;25/7/2013 00:00:00;
+"20130727FSPA15_1";"20130726OUTR01";26/7/2013 00:00:00;"Outros";;;"Personalidades/Indivíduos Públicos";"contra_governador_Sergio_Cabral";;"Local";1;"Bairros";300;26/7/2013 00:00:00;"black block"
+"20130730FSPA10_1";"20130728NMEN02";28/7/2013 00:00:00;"Estudante";"Trabalhadores";"Funcionário Público";"Gov. Estadual";"contra_governador_Sergio_Cabral";;"Local";1;"Bairros";30;;
+"20130731FSPC05_1";"20130730TERR01";30/7/2013 00:00:00;"Moradores";;;"Gov. Estadual";"contra_cabral";"contra_paes;contra_corrupção";"Local";1;"Bairros";99;30/7/2013 00:00:00;"sem informacao, são moradores"
+"20130801FSPA12_1";"20130731OUTR01";31/7/2013 00:00:00;"Outros";;;"Gov. Estadual";"abertura_de_inqueritos_para_apurar_violencia_Policial";"auditoria_nas_contas_do_Estado;investigacao_gastos_da_copa";"Municipal";99;"Bairros";300;31/7/2013 00:00:00;
+"20130802FSPA04_1";"20130801BSMT01";1/8/2013 00:00:00;"Moradores";"Outros";;"Gov. Estadual";"contra_desaparecimento_de_Amarildo";"contra_governador_Sergio_Cabral";"Local";1;"Bairros";99;1/8/2013 00:00:00;
+"20130802FSPA06_1";"20130801NMEN01";1/8/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Geraldo_Alckmin";"contra_governador_Sergio_Cabral;cade_amarildo";"Local";1;"Bairros";99;1/8/2013 00:00:00;
+"20130803FSPA06_1";"20130802NMEN01";2/8/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_governador_Geraldo_Alckmin";"contra_governador_Sergio_Cabral";"Local";1;"Bairros";400;2/8/2013 00:00:00;
+"20130805FSPA06_1";"20130802NMEN01";2/8/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"pedido_de_cpi_dos_transportes";"investigacao_das_denuncias_de_superfaturação_do_metrÔ";"Local";1;"Bairros";25;2/8/2013 00:00:00;
+"20130809FSPC07_1";"20130808NMEN01";8/8/2013 00:00:00;"Não Mencionada";;;"Gov. Municipal";"passe_livre";"instauracao_de_cpi";"Local";1;"Bairros";200;8/8/2013 00:00:00;
+"20130815FSPA08_2";"20130814NMEN01";14/8/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"pela_investigacao_caixa_preta_dos_transportes";;"Local";1;"Bairros";600;14/8/2013 00:00:00;
+"20130815FSPA11_1";"20130809NMEN01";9/8/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"fora_cabral";;"Local";1;"Bairros";11;;
+"20130819FSPA06_1";"20130818NMEN01";18/8/2013 00:00:00;"Não Mencionada";;;"Legislativo";"pela_renuncia_de_senador_Renan_Calheiros";;"Local";1;"Bairros";99;;"autonimistas"
+"20130828FSPA09_1";"20130827OUTR01";27/8/2013 00:00:00;"Outros";;;"Gov. Estadual";"contra_governador_Cabral";;"Local";1;"Bairros";60;27/8/2013 00:00:00;
+"20130901FSPA11_1";"20130830NMEN01";30/8/2013 00:00:00;"Não Mencionada";;;"Legislativo";"pela_reforma_politica";;"Nacional";99;"Bairros";321000;;
+"20130905FSPA09_1";"20130804NMEN01";4/8/2013 00:00:00;"Não Mencionada";;;"Patronato";"contra_fraude_no_metro";;"Local";1;"Bairros";400;4/8/2013 00:00:00;
+"20130907FSPA14_2";"20130723POLI01";23/7/2013 00:00:00;"Militantes de Partidos";;;"Gov. Estadual";"contra_cabral";;"Local";1;"Bairros";20;5/8/2013 00:00:00;
+"20130908FSPA04_1";"20130907NMEN01";7/9/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"contra_corrupcao";;"Nacional";3;"Estados";99;7/9/2013 00:00:00;
+"20130908FSPA10_1";"20130907NMEN01";7/9/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"contra_corrupcao";"volta_ditadura_militar;contra_politicos;contra_alckimim";"Nacional";2;"Cidades";99;7/9/2013 00:00:00;"black blocks ate grupos pela volta da ditadura"
+"20130915FSPA16_1";"20130914NMEN01";14/9/2013 00:00:00;"Não Mencionada";;;"Gov. Estadual";"contra_cabral";"contra_proibicao_de_mascaras_nas_manifestacoes";"Local";1;"Bairros";99;14/9/2013 00:00:00;
+"20130918FSPA08_1";"20130917NMEN01";17/9/2013 00:00:00;"Não Mencionada";;;"Judiciário";"para_que_ministro_do_stf_vote_contra_imbargos_infringentes_no_julgamento_do_mensalao";"contra_corrupcao";"Local";1;"Bairros";23;17/9/2013 00:00:00;
+"20130919FSPA09_1";"20130918NMEN01";18/9/2013 00:00:00;"Não Mencionada";;;"Judiciário";"contra_decisao_de_julgar_novamente_acusados_do_mensalao";;"Nacional";2;"Estados";90;18/9/2013 00:00:00;
+"20130920FSPA10_2";"20130916NMEN01";16/9/2013 00:00:00;"Não Mencionada";;;"Personalidades/Indivíduos Públicos";"contra_mensaleiros";;"Local";1;"Bairros";30;16/9/2013 00:00:00;
+"20130928FSPS04_1";"20130808POLI01";8/8/2013 00:00:00;"Militantes de Partidos";;;"Gov. Estadual";"contra_cabral";"contra_paes;contra_dilma;cade_amarildo;petroleo_100_estatal";"Local";1;"Bairros";40;;"arrumar no outro banco que esta E02"
+"20131101FSPC06_1";"20131030NMEN01";30/10/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"a_favor_direito_protestar";"a_favor_liberdade_manifestantes_presos_protestos_;_a_favor_fim_prisões_politicas_;_desmilitarizaçao_PM_;_fim_da_pacificacao_Armada_;_democratizacao_meios_comunicacao_;_marco_civil_Internet_;_contra_gastos_abusivos_Copa_Mundo_e_Olimpiadas";"Local";1;"Bairros";500;30/10/2013 00:00:00;"D2"
+"20131106FSPC07_1";"20131105NMEN01";5/11/2013 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"a_favor_fim_corrupcao";;"Local";1;"Bairros";100;5/11/2013 00:00:00;
+"20131216FSPA08_1";"20131215OUTR01";15/12/2013 00:00:00;"Outros";;;"Gov. Federal";"a_favor_pais_com_menos_impostos";"a_favor_porte_de_armas_cidadaos_;_a_favor_Ministro_STF_Joaquim_Barbosa";"Local";1;"Bairros";29;15/12/2013 00:00:00;"maçons"
+"20140908FSPA06_1";"20140907NMEN01";7/9/2014 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Grito_dos_excluidos";"reforma_politica; bradar_contra_os_militares";"Nacional";3;"Cidades";2730;7/9/2014 00:00:00;
+"20141102FSPA01_1";"20141101NMEN01";1/11/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Dilma_sabia";"Nacional";3;"Estados";2500;1/11/2014 00:00:00;
+"20141102FSPA14_1";"20141101NMEN01";1/11/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";3;"Estados";2500;1/11/2014 00:00:00;
+"20141116FSPA01_1";"20141115NMEN01";15/11/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"pro_intervencao_militar";"Nacional";4;"Estados";10000;15/11/2014 00:00:00;
+"20141116FSPA15_1";"20141115NMEN01";15/11/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"pro_intervencao_militar";"Nacional";4;"Estados";10150;15/11/2014 00:00:00;
+"20141207FSPA01_1";"20141206NMEN01";6/12/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";5000;6/12/2014 00:00:00;
+"20141207FSPA01_2";"20141206NMEN02";6/12/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"por_intervencao_militar";"contra_dilma";"Local";1;"Bairros";400;6/12/2014 00:00:00;
+"20141207FSPA12_1";"20141206NMEN01";6/12/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";5000;6/12/2014 00:00:00;
+"20141207FSPA12_2";"20141206NMEN02";6/12/2014 00:00:00;"Não Mencionada";;;"Gov. Federal";"por_intervencao_militar";"contra_dilma";"Local";1;"Bairros";400;6/12/2014 00:00:00;
+"20150222FSPA07_1";"20150221OUTR01";21/2/2015 00:00:00;"Outros";;;"Polícia/Guarda";"Apoiar_policia_federal";"contra_ministro_da_justica_cardoso;apoio_lava_jato";"Local";1;"Bairros";30;21/2/2015 00:00:00;"motociclistas"
+"20150303FSPA04_1";"20150302NMEN01";2/3/2015 00:00:00;"Não Mencionada";;;"Judiciário";"Apoiar_Janot_na_investigacao_do_mensalao";;"Local";1;"Bairros";20;2/3/2015 00:00:00;
+"20150309FSPA04_1";"20150308NMEN01";8/3/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Escarnio_da_presidente_Dilma";;"Nacional";12;"Estados";99;3/3/2015 00:00:00;
+"20150311FSPA01_1";"20150310OCUP01";10/3/2015 00:00:00;"Empregadores";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";99;10/3/2015 00:00:00;
+"20150313FSPA06_1";"20150312OCUP01";12/3/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Outros Grupos da Sociedade";"Defesa_da_petrobras";"plebiscito_para_reforma_politica_ajustes_fiscais;melhoras_na_educacao;habitacao";"Estadual";2;"Cidades";1500;12/3/2015 00:00:00;
+"20150313FSPA06_2";"20150312OCUP01";12/3/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Contra_Dilma";"contra_governos_locais";"Local";1;"Bairros";99;12/3/2015 00:00:00;
+"20150314FSPA04_1";"20150313BSMT01";13/3/2015 00:00:00;"Trabalhadores";"Estudante";"Não Identificada";"Outros Grupos da Sociedade";"Contra_impeachment";"defesa_da_petrobras;defesa_da_demcracia;pela_reforma_politica;por_direitos_trabalhistas;pela_reforma_agraria";"Nacional";99;"Estados";98000;13/3/2015 00:00:00;
+"20150314FSPA05_2";"20150313NMEN01";13/3/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";60;13/3/2015 00:00:00;
+"20150315FSPA05_1";"20150314OCUP01";14/3/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Outros Grupos da Sociedade";"Contra_impeachment";"por_direitos_trabalhistas;por_reforma_politica";"Local";1;"Bairros";41000;14/3/2015 00:00:00;
+"20150316FSPA01_1";"20150315NMEN01";15/3/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_a_presidente_Dilma";"por_intervencao_militar";"Nacional";27;"Estados";1700000;15/3/2015 00:00:00;
+"20150316FSPA04_1";"20150315NMEN01";15/3/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_a_presidente_Dilma";;"Nacional";157;"Cidades";1700000;15/3/2015 00:00:00;
+"20150316FSPA06_1";"20150315NMEN01";15/3/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_a_presidente_Dilma";;"Nacional";27;"Estados";1700000;15/3/2015 00:00:00;
+"20150401FSPA08_1";"20150330NMEN01";30/3/2015 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Comemorar_o_aniversario_de_51_anos_do_golpe";"contra_dilma";"Local";1;"Bairros";20;30/3/2015 00:00:00;
+"20150413FSPA01_1";"20150412NMEN01";12/4/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_corrupcao";;"Nacional";25;"Estados";187500;12/4/2015 00:00:00;
+"20150413FSPA06_1";"20150412NMEN01";12/4/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_dilma";"contra_lula;contra_toffoli;apoio_a_moro";"Nacional";25;"Estados";543000;12/4/2015 00:00:00;
+"20150422FSPA07_1";"20150422NMEN01";22/4/2015 00:00:00;"Não Mencionada";;;"Gov. Estadual";"Contra_a_escolha_dos_homenageados_com_a_medalha_da_inconfidencia";"contra_PT";"Estadual";2;"Cidades";120;22/4/2015 00:00:00;
+"20150425FSPA06_1";"20150424NMEN01";24/4/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";"marcha_pela_liberdade";"Nacional";99;"Cidades";23;;"ate brasilia_talvez separar marcha de ato"
+"20150502FSPA04_2";"20150501OCUP01";1/5/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"dia_do_trabalho";"Local";1;"Bairros";1000000;1/5/2015 00:00:00;
+"20150504FSPA07_1";"20150503NMEN01";3/5/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";"contra_governador_pimentel";"Local";1;"Bairros";50;3/5/2015 00:00:00;
+"20150504FSPA07_2";"20150503NMEN02";3/5/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";"contra_temer";"Nacional";2;"Cidades";99;3/5/2015 00:00:00;
+"20150506FSPA05_1";"20150505NMEN01";5/5/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Nacional";11;"Cidades";99;5/5/2015 00:00:00;
+"20150510FSPA10_1";"20150509TERR01";9/5/2015 00:00:00;"Moradores";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";30;9/5/2015 00:00:00;
+"20150518FSPA06_1";"20150517NMEN01";17/5/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";50;17/5/2015 00:00:00;
+"20150525FSPA05_1";"20150424NMEN01";24/4/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Nacional";99;"Cidades";30;;
+"20150528FSPA06_1";"20150424NMEN01";24/4/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"pelo_impeachment_de_dilma";;"Nacional";99;"Cidades";400;27/6/2015 00:00:00;
+"20150605FSPA01_1";"20150604IDEN01";4/6/2015 00:00:00;"Religiosos";;;"Outros Grupos da Sociedade";"23_Marcha Para Jesus";"Faxina_etica_na_politica_brasileira";"Local";1;"Bairros";340000;4/6/2015 00:00:00;
+"20150605FSPA05_1";"20150604IDEN01";4/6/2015 00:00:00;"Religiosos";;;"Outros Grupos da Sociedade";"23_Marcha Para Jesus";"Faxina_etica_na_politica_brasileira;contra_aborto;contra_prostituicao;contra_uso_de_drogas";"Local";1;"Bairros";340000;4/6/2015 00:00:00;
+"20150612FSPA04_2";"20150611NMEN01";11/6/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"a_favor_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;11/6/2015 00:00:00;
+"20150716FSPA04_1";"20150716OCUP01";16/7/2015 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"Contra_presidente_Dilma";"pela_sancao_da_plc28";"Local";1;"Bairros";1000;16/7/2015 00:00:00;"servidosres do correios"
+"20150805FSPA05_1";"20150804NMEN01";4/8/2015 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"Contra_o_PT";"contra_dirceu";"Local";1;"Bairros";50;4/8/2015 00:00:00;
+"20150807FSPA04_1";"20150806NMEN01";6/8/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_o_pronunciamento_do_PT";;"Municipal";27;"Bairros";99;6/8/2015 00:00:00;
+"20150812FSPA06_2";"20150811OUTR01";11/8/2015 00:00:00;"Outros";;;"Gov. Federal";"pela_renuncia_de_dilma";;"Local";1;"Bairros";99;11/8/2015 00:00:00;"ex_alunos"
+"20150817FSPA01_1";"20150816NMEN01";16/8/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Dez_medidas_para_combater_a_corrupcao;Apoiar_sergio_moro";"Nacional";169;"Cidades";612000;16/8/2015 00:00:00;"primeira vez que aecio discursa a favor dos protestos"
+"20150817FSPA04_1";"20150816NMEN01";16/8/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Dez_medidas_para_combater_a_corrupcao;Apoiar_sergio_moro";"Nacional";169;"Cidades";25000;16/8/2015 00:00:00;
+"20150817FSPA07_1";"20150816NMEN01";16/8/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Dez_medidas_para_combater_a_corrupcao;Apoiar_sergio_moro";"Nacional";169;"Cidades";612000;16/8/2015 00:00:00;
+"20150817FSPA08_1";"20150816NMEN01";16/8/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Dez_medidas_para_combater_a_corrupcao;Apoiar_sergio_moro";"Nacional";169;"Cidades";612000;16/8/2015 00:00:00;
+"20150821FSPB05_1";"20150821OCUP01";21/8/2015 00:00:00;"Trabalhadores";;"Funcionário Público";"Reitoria/Direção de Escola";"Corte_de_supersalarios_na_unicamp";;"Local";1;"Bairros";200;;
+"20150831FSPA11_1";"20150830NMEN01";30/8/2015 00:00:00;"Não Mencionada";;;"Judiciário";"para_que_TCU_agilize_revisao_de_contas_do_governo";"contra_dilma;contra_cardoso";"Local";1;"Bairros";99;30/8/2015 00:00:00;
+"20150908FSPA01_1";"20150907NMEN01";7/9/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";9;"Estados";25000;7/9/2015 00:00:00;
+"20150908FSPA04_1";"20150907NMEN01";7/9/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";9;"Estados";25000;7/9/2015 00:00:00;
+"20150908FSPA05_1";"20150907NMEN01";7/9/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";9;"Estados";25000;7/9/2015 00:00:00;
+"20150911FSPA12_1";"20150907NMEN02";7/9/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";99;"Bairros";99;7/9/2015 00:00:00;
+"20151018FSPA17_1";"20151017NMEN01";17/10/2015 00:00:00;"Não Mencionada";;;"Judiciário";"Apoio_Sergio_Moro";"Contra_presidente_Dilma";"Local";1;"Bairros";30;17/10/2015 00:00:00;
+"20151018FSPA17_2";"20151017NMEN02";17/10/2015 00:00:00;"Não Mencionada";;;"Gov. Estadual";"Contra_governador_de_minas_pimentel";"Contra_presidente_Dilma;contra_lula";"Local";1;"Bairros";16;17/10/2015 00:00:00;
+"20151020FSPA05_1";"20151018NMEN01";18/10/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";"apoio_ao_impeachment";"Local";1;"Bairros";1500;18/10/2015 00:00:00;
+"20151026FSPA08_1";"20151025NMEN01";25/10/2015 00:00:00;"Não Mencionada";;;"Gov. Municipal";"Contra_secretario_municipal_suplicy";"contra_PT";"Local";1;"Bairros";99;25/10/2015 00:00:00;
+"20151105FSPA08_1";"20151104NMEN01";4/11/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;4/11/2015 00:00:00;
+"20151106FSPA06_1";"20151030NMEN01";30/10/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;5/10/2015 00:00:00;
+"20151109FSPA07_1";"20151109NMEN01";9/11/2015 00:00:00;"Não Mencionada";;;"Legislativo";"Contra_Eduardo_Cunha";"contra_ajuste_fiscal";"Nacional";11;"Cidades";10600;9/11/2015 00:00:00;
+"20151110FSPA18_1";"20151109OCUP01";9/11/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"queda_do_preco_do_diesel;criacao_frete_minimo";"Nacional";14;"Estados";99;;
+"20151111FSPS23_1";"20151109OCUP01";9/11/2015 00:00:00;"Trabalhadores";;"Autônomo/Conta Própria";"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";14;"Estados";99;;
+"20151112FSPA22_1";"20151109OCUP01";9/11/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"queda_do_preco_do_diesel;criacao_frete_minimo";"Nacional";9;"Estados";99;;
+"20151113FSPA21_1";"20151109OCUP01";9/11/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"queda_do_preco_do_diesel;criacao_frete_minimo";"Nacional";2;"Estados";99;;
+"20151114FSPS27_1";"20151109OCUP01";9/11/2015 00:00:00;"Trabalhadores";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";14;"Estados";99;14/11/2015 00:00:00;"caminhoneiros"
+"20151115FSPA10_1";"20151014NMEN01";14/10/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";70;;
+"20151116FSPA05_1";"20151115NMEN01";15/11/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";2500;15/11/2015 00:00:00;
+"20151118FSPA05_1";"20151117IDEN01";17/11/2015 00:00:00;"Mulheres";;;"Legislativo";"Contra_Eduardo_Cunha";;"Municipal";2;"Bairros";99;17/11/2015 00:00:00;
+"20151119FSPA08_1";"20151014NMEN01";14/10/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;;
+"20151122FSPA06_1";"20151115NMEN01";15/11/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;21/11/2015 00:00:00;"diferenciar as ocupacoes noticiadas pelo que entendi foram 3"
+"20151122FSPA06_2";"20151115NMEN02";15/11/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_Intervencao_militar";"Defender_impeachment_da_presidente_Dilma";"Local";1;"Bairros";40;21/11/2015 00:00:00;
+"20151203FSPA09_1";"20151202NMEN01";2/12/2015 00:00:00;"Não Mencionada";;;"Legislativo";"Celebrar_a_tramitacao_do_Impeachment_da_presidente_Dilma";;"Local";1;"Bairros";30;2/12/2015 00:00:00;
+"20151209FSPA08_1";"20151208OCUP01";8/12/2015 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Defender_Dilma";"Contra_Cunha";"Local";1;"Bairros";5000;8/12/2015 00:00:00;
+"20151214FSPA01_1";"20151213NMEN01";13/12/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"esquenta_para_o_impeachment";"Local";1;"Bairros";40300;13/12/2015 00:00:00;
+"20151214FSPA04_1";"20151213NMEN01";13/12/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"esquenta_para_o_impeachment";"Nacional";27;"Estados";77000;13/12/2015 00:00:00;
+"20151217FSPA09_1";"20151216BSMT01";16/12/2015 00:00:00;"Base Social Múltipla";;;"Gov. Federal";"Defender_Dilma";"Pedir_afastamento_de_Eduardo_Cunha";"Nacional";26;"Estados";128850;16/12/2015 00:00:00;
+"20160101FSPA05_1";"20151231NMEN01";31/12/2015 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_dilma";;"Local";1;"Bairros";99;31/12/2015 00:00:00;
+"20160204FSPA08_1";"20160203NMEN01";3/2/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_pronunciamento_da_presidente_Dilma";;"Local";1;"Bairros";99;3/2/2016 00:00:00;
+"20160204FSPA08_2";"20160203NMEN02";3/2/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_pronunciamento_da_presidente_Dilma";;"Nacional";6;"Estados";99;3/2/2016 00:00:00;
+"20160218FSPA06_2";"20160217NMEN01";17/2/2016 00:00:00;"Não Mencionada";;;"Personalidades/Indivíduos Públicos";"Contra_Lula";;"Local";1;"Bairros";99;17/2/2016 00:00:00;
+"20160305FSPA11_2";"20160304NMEN01";4/3/2016 00:00:00;"Não Mencionada";;;"Personalidades/Indivíduos Públicos";"Contra_Lula";;"Estadual";2;"Cidades";100;4/3/2016 00:00:00;
+"20160305FSPA11_3";"20160304NMEN02";4/3/2016 00:00:00;"Não Mencionada";;;"Judiciário";"apoio_a_lava_jato";;"Nacional";9;"Estados";99;4/3/2016 00:00:00;
+"20160314FSPA01_1";"20160313NMEN01";13/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"apoio_lava_jato;prisao_de_lula";"Nacional";21;"Cidades";950000;13/3/2016 00:00:00;
+"20160314FSPA04_1";"20160313NMEN01";13/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"apoio_lava_jato;prisao_de_lula";"Nacional";121;"Cidades";950000;13/3/2016 00:00:00;
+"20160314FSPA08_1";"20160313NMEN01";13/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"apoio_lava_jato;prisao_de_lula";"Nacional";121;"Cidades";3458000;13/3/2016 00:00:00;
+"20160317FSPA01_1";"20160316NMEN01";16/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Contra_a_nomeacao_do_ex_presidente_lula_na_casa_civil;defender_Sergio_Moro;";"Nacional";99;"Cidades";15000;16/3/2016 00:00:00;
+"20160317FSPA04_1";"20160316NMEN01";16/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Contra_a_nomeacao_do_ex_presidente_lula_na_casa_civil;defender_Sergio_Moro;";"Nacional";99;"Cidades";15000;16/3/2016 00:00:00;
+"20160317FSPA12_1";"20160316NMEN01";16/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Contra_a_nomeacao_do_ex_presidente_lula_na_casa_civil";"Nacional";16;"Cidades";15000;16/3/2016 00:00:00;
+"20160318FSPA04_1";"20160317NMEN01";17/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Nacional";99;"Cidades";99;17/3/2016 00:00:00;
+"20160318FSPA08_1";"20160317OCUP01";17/3/2016 00:00:00;"Trabalhadores";;"Funcionário Público";"Judiciário";"Apoiar_sergio_moro";;"Local";1;"Bairros";99;17/3/2016 00:00:00;"ato de juizes federaias"
+"20160318FSPA12_1";"20160317NMEN02";17/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";4000;18/3/2016 00:00:00;
+"20160318FSPA13_1";"20160317NMEN01";17/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_governo_Dilma";"A_favor_Sergio_Moro";"Nacional";99;"Bairros";8700;17/3/2016 00:00:00;
+"20160320FSPA08_1";"20160319NMEN01";19/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";200;;
+"20160323FSPB04_1";"20160322IDEN01";22/3/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Protestam_contra_salas_fechadas";"contra_a_mafia_da_merenda";"Local";1;"Bairros";99;22/3/2016 00:00:00;
+"20160325FSPA06_1";"20160324TERR01";24/3/2016 00:00:00;"Sem Teto";;;"Gov. Federal";"Contra_impeachment_presidente_Dilma";"contra_cunha;contra_politica_economica_de_dilma;contra_psdb;contra_dem";"Local";1;"Bairros";30000;24/3/2016 00:00:00;"cunha aqui vai sim"
+"20160328FSPA04_1";"20160322NMEN01";22/3/2016 00:00:00;"Não Mencionada";;;"Judiciário";"contra_a_decisao_de_teori_pro_governo";;"Local";1;"Bairros";99;22/3/2016 00:00:00;
+"20160328FSPA04_2";"20160326NMEN01";26/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";15;26/3/2016 00:00:00;
+"20160328FSPA04_3";"20160327NMEN01";27/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_o_governo_federal";"contra_teori;contra_lula";"Local";1;"Bairros";99;27/3/2016 00:00:00;
+"20160402FSPA12_2";"20160401NMEN01";1/4/2016 00:00:00;"Não Mencionada";;;"Outros Grupos da Sociedade";"contra_todos_os_politicos";;"Local";1;"Bairros";99;1/4/2016 00:00:00;
+"20160404FSPA06_1";"20160403NMEN01";3/4/2016 00:00:00;"Não Mencionada";;;"Legislativo";"Expor_deputados_contrarios_ao_impeachment";;"Local";1;"Bairros";99;3/4/2016 00:00:00;
+"20160413FSPA07_1";"20160411NMEN01";11/4/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;11/4/2016 00:00:00;"buzinaco_um_novo_tipo_repertorio_pergunta"
+"20160415FSPA13_1";"20160317NMEN02";17/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";"Contra_a_nomeacao_do_ex_presidente_lula_na_casa_civil";"Local";1;"Bairros";30;;
+"20160417FSPA19_1";"20160416NMEN01";16/4/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Defender_impeachment_da_presidente_Dilma";;"Local";1;"Bairros";99;16/4/2016 00:00:00;
+"20160418FSPA09_1";"20160417NMEN01";17/4/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Comemorar_impeachment_da_presidente";;"Local";1;"Bairros";99;17/4/2016 00:00:00;
+"20160418FSPA26_1";"20160417NMEN02";17/4/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"A_favor_impeachment";;"Local";1;"Bairros";99;17/4/2016 00:00:00;
+"20160421FSPA01_1";"20160420IDEN01";20/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Contra_fraude_em_merenda_escolar";;"Local";1;"Bairros";99;20/4/2016 00:00:00;
+"20160429FSPA11_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhoria_na_merenda";"Contra_mafia_da_merenda_de_sp";"Municipal";2;"Bairros";500;;"centenas_como_era_mesmo_500"
+"20160430FSPB03_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhoria_na_merenda";"reajuste_para_os_professores;contra_mafia_da_merenda";"Local";1;"Bairros";250;;
+"20160502FSPA04_1";"20160501OCUP01";1/5/2016 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";500000;1/5/2016 00:00:00;
+"20160502FSPA05_1";"20160501OCUP01";1/5/2016 00:00:00;"Trabalhadores";;"Não Identificada";"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";500000;1/5/2016 00:00:00;
+"20160503FSPB01_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Local";1;"Bairros";99;;
+"20160504FSPB01_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp;por_cpi_da_merenda";"Municipal";5;"Bairros";150;;
+"20160505FSPB01_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Municipal";11;"Bairros";99;;
+"20160505FSPB04_1";"20160504IDEN01";4/5/2016 00:00:00;"Estudante";;;"Gov. Estadual";"pela_cpi_das_merendas";;"Local";1;"Bairros";50;4/5/2016 00:00:00;
+"20160506FSPA07_1";"20160505NMEN01";5/5/2016 00:00:00;"Não Mencionada";;;"Legislativo";"comemoracao_pelo_afastamento_de_Eduardo_Cunha";;"Local";1;"Bairros";99;5/5/2016 00:00:00;
+"20160507FSPA06_1";"20160506NMEN01";6/5/2016 00:00:00;"Não Mencionada";;;"Legislativo";"Pedir_afastamento_de_Eduardo_Cunha";;"Local";1;"Bairros";99;6/5/2016 00:00:00;
+"20160507FSPB01_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Municipal";99;"Bairros";99;6/5/2016 00:00:00;
+"20160507FSPB08_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Municipal";99;"Bairros";99;6/5/2016 00:00:00;
+"20160509FSPB07_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Municipal";11;"Bairros";99;;
+"20160510FSPA07_2";"20160509NMEN01";9/5/2016 00:00:00;"Não Mencionada";;;"Legislativo";"Contra_decisao_de_maranhao_de_anular_sessao_do_impeachment";;"Nacional";2;"Estados";99;9/5/2016 00:00:00;
+"20160511FSPA01_1";"20160510IDEN01";10/5/2016 00:00:00;"Estudante";;;"Gov. Estadual";"pela_criacao_de_cpi_da_merenda";"Contra_mafia_da_merenda_de_sp";"Local";1;"Bairros";99;10/5/2016 00:00:00;
+"20160511FSPB03_1";"20160510IDEN01";10/5/2016 00:00:00;"Estudante";;;"Gov. Estadual";"pela_criacao_de_cpi_da_merenda";"Contra_mafia_da_merenda_de_sp";"Local";1;"Bairros";99;10/5/2016 00:00:00;
+"20160512FSPA12_1";"20160511NMEN01";11/5/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"A_favor_impeachment";;"Nacional";2;"Estados";4300;11/5/2016 00:00:00;
+"20160514FSPB01_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Municipal";4;"Bairros";99;13/5/2016 00:00:00;
+"20160516FSPA05_2";"20160317NMEN02";17/3/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_presidente_Dilma";;"Local";1;"Bairros";99;;
+"20160516FSPB08_1";"20160428IDEN01";28/4/2016 00:00:00;"Estudante";;;"Gov. Estadual";"Melhora_na_merenda";"Contra_mafia_da_merenda_de_sp";"Local";1;"Bairros";99;;
+"20160527FSPA06_1";"20160526IDEN01";26/5/2016 00:00:00;"Religiosos";;;"Outros Grupos da Sociedade";"24_Marcha_para_jesus";;"Local";1;"Bairros";3000000;26/5/2016 00:00:00;"gera duvida"
+"20160531FSPA01_1";"20160530OCUP01";30/5/2016 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"Demissao_de_fabiano_silveira_que_criticou_lava_jato";;"Local";1;"Bairros";99;30/5/2016 00:00:00;
+"20160531FSPA04_1";"20160530OCUP01";30/5/2016 00:00:00;"Trabalhadores";;"Funcionário Público";"Gov. Federal";"Demissao_de_fabiano_silveira_que_criticou_lava_jato";;"Local";1;"Bairros";99;30/5/2016 00:00:00;
+"20160610FSPA08_1";"20160509NMEN02";9/5/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_Dilma";;"Local";1;"Bairros";50;9/5/2016 00:00:00;
+"20160801FSPA04_2";"20160731NMEN01";31/7/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"A_favor_impeachment";"Defesa_Sergio_Moro_a_favor_Temer";"Nacional";50;"Cidades";5000;31/7/2016 00:00:00;
+"20160802FSPA06_1";"20160731NMEN01";31/7/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Contra_PT";"hostilizar_leticia_sabatella";"Nacional";50;"Capitais";25000;31/7/2016 00:00:00;
+"20160901FSPA17_2";"20160731NMEN01";31/7/2016 00:00:00;"Não Mencionada";;;"Gov. Federal";"Comemorar_impeachment_Dilma";;"Nacional";9;"Cidades";50;31/7/2016 00:00:00;"foguetorio"
